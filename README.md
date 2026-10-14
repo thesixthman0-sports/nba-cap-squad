@@ -151,7 +151,7 @@ The real-team columns use the same 36 / 12 minutes template as the squads (their
 
 ## Files
 
-- [`notebooks/nba_cap_squad.ipynb`](notebooks/nba_cap_squad.ipynb): the full analysis, run top to bottom in Google Colab.
+- [`nba_cap_squad.ipynb`](nba_cap_squad.ipynb): the full analysis, run top to bottom in Google Colab.
 
 ## Data attribution
 
