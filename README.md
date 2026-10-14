@@ -67,6 +67,7 @@ known contracts, so seasons before 2025 were not used.
 | 2025 to 2026 | yes | 27.6 | 22.3 | 154.5 | 15.6 | 2.8 |
 
 Expected uses season N ratings, realised uses season N+1 ratings.
+The usage sum without the limit was 116.1 and 113.0, which a real lineup cannot reach.
 The real-team columns use the same 36 / 12 minutes template as the squads (their ten players with the most minutes). The first cell of the notebook prints real-team strength with actual minutes, which gives lower values (best team 13.9 and 11.9) because real players miss games.
 
 ### 2. Comparisons with simpler approaches (36 / 12 minutes)
